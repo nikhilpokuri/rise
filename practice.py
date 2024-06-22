@@ -6,4 +6,3 @@
 OUTPUT:
 {1:True, 2:True, ... 10:True}
 """
-print("dont delete")
