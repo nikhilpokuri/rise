@@ -17,3 +17,13 @@ age = {
     'Elena': 70,
     'Damon': 78
 }
+
+emails = [
+    'john.deer@gmail.com',
+    'alex.barner@yahoo.com',
+    'brad.cooper@hotmail.com',
+    'cindy.barner@hotmail.com',
+    'matt.damon@gmail.com',
+    'george.cloony@yahoo.com',
+    'mc.barner@hotmail.com'
+]
