@@ -2,7 +2,7 @@
 votes = [
        'Tony', 'Bucky', 'Rogers', 'Damon', 'Stefan',
        'Bucky', 'Rogers', 'Rogers', 'Tony', 'Damon',
-      ';Elena', 'Stefan', 'Tony', 'Thanos', 'Elena',
+      'Elena', 'Stefan', 'Tony', 'Thanos', 'Elena',
        'Thanos', 'Matt', 'Rose', 'Thanos', 'Damon'
 ]
 age = {
